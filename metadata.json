@@ -1,0 +1,6 @@
+{
+  "name": "TestPlatform - Onlayn Test va Telegram Bot Tizimi",
+  "description": "500 tagacha o'quvchi uchun Telegram OTP autentifikatsiyasi, anti-cheat nazorati, Word parser va o'qituvchi tahliliga ega mobil onlayn test platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
